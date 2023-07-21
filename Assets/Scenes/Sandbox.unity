@@ -469,7 +469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotateForce: 100
-  thrustForce: 100
+  thrustForce: 800
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
