@@ -1,1 +1,12 @@
-
+Library/
+Temp/
+.idea/
+Logs/
+UserSettings/
+Packages/
+obj/
+*.sln
+*.csproj
+*.userprefs
+*.unityproj
+*.DS_Store
